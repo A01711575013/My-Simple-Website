@@ -1,8 +1,9 @@
 div {
     background-color: tomato;
     padding: 11px;
+    margin: 11px;
 }
 p {
-    color: rgb(26, 183, 47);
-    font-size: 111px;
+    color: rgb(14, 16, 14);
+    font-size: 22px;
 }
